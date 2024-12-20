@@ -16,12 +16,12 @@ Expense Manager is a simple Python-based application designed to help users trac
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/expense-manager.git
+   git clone git clone https://github.com/yourusername/expense-manager.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd expense-manager
+   cd src
    ```
 
 3. **Install dependencies:**
