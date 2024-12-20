@@ -32,14 +32,7 @@ Expense Manager is a simple Python-based application designed to help users trac
 
 ---
 
-## Usage
-1. **Run the application:**
-   ```bash
-   python expense_manager.py
-   ```
 
-
----
 ## Dependencies
 - Python 3.8+
 - Any additional libraries will be listed in `requirements.txt`.
